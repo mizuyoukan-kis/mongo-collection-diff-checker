@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+mongo_data/
+diff_*.csv

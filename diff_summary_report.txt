@@ -1,0 +1,5 @@
+process_A: OK（完全一致, DB1=10件, DB2=10件）
+process_B: OK（完全一致, DB1=10件, DB2=10件）
+process_C: OK（完全一致, DB1=10件, DB2=10件）
+process_D: OK（完全一致, DB1=10件, DB2=10件）
+process_E: OK（完全一致, DB1=10件, DB2=10件）
