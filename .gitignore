@@ -5,4 +5,10 @@ __pycache__/
 *.pyo
 *.pyd
 mongo_data/
-diff_*.csv
+# 除外: requirements.txt 以外の .txt
+!requirements.txt
+*.txt
+# 除外: すべての .csv
+*.csv
+# ただし .gitignore 自身は除外しない
+!.gitignore
